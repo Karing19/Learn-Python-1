@@ -1,5 +1,5 @@
 prompt = "\nIf you could visit one place in the world, where would you go? "
-prompt == "\n(Enter 'quit' when you are finished.)"
+prompt += "\n(Enter 'quit' when you are finished.)"
 
 places = []
 
